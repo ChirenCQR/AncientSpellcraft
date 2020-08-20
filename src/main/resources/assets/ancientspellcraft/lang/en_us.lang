@@ -3,23 +3,23 @@
 itemGroup.ancientspellcraft.tabAncientSpellcraft=Ancient Spellcraft
 
 #spells
-spell.ancientspellcraft\:hellgate=Hell's Gate
-spell.ancientspellcraft\:hellgate.name=Hell's Gate
-spell.ancientspellcraft\:hellgate.desc=Mastering the secrets of fire opens many doors of opportunity...
+spell.ancientspellcraft\:hellgate=地狱之门
+spell.ancientspellcraft\:hellgate.name=地狱之门
+spell.ancientspellcraft\:hellgate.desc=掌握了烈火的奥秘，将会打开更多的命运之门。
 spell.ancientspellcraft\:hellgate.desc.aw=TODO
-spell.ancientspellcraft\:tameanimal=Tame Animal
-spell.ancientspellcraft\:tameanimal.name=Tame Animal
-spell.ancientspellcraft\:tameanimal.desc=You must follow me, said the Earth Wizard, and the animals of the forest obeyed.
+spell.ancientspellcraft\:tameanimal=驯化动物
+spell.ancientspellcraft\:tameanimal.name=驯化动物
+spell.ancientspellcraft\:tameanimal.desc=“你必须听从于我！”大地巫师说道，森林里的动物们都顺从了。
 spell.ancientspellcraft\:tameanimal.desc.aw=TODO
-spell.ancientspellcraft\:extinguish=Extinguish Flames
-spell.ancientspellcraft\:extinguish.name=Extinguish Flames
-spell.ancientspellcraft\:extinguish.desc=Extinguishes nearly burning blocks and entities, including the caster. Grants a temporary fire resistance for the caster if burning. Radius increases with wand Blast Upgrades.
-spell.ancientspellcraft\:curse_of_ender=Curse of Ender
-spell.ancientspellcraft\:curse_of_ender.name=Curse of Ender
-spell.ancientspellcraft\:curse_of_ender.desc=Suddenly you feel that you are not a part of this world anymore, you have fear of the water and the sun annoys you.
+spell.ancientspellcraft\:extinguish=平熄烈火
+spell.ancientspellcraft\:extinguish.name=平熄烈火
+spell.ancientspellcraft\:extinguish.desc=包括施法者在内，几乎可以熄灭燃烧着的实体和方块。在着火时可以给予施法者暂时的防火效果。作用范围的半径会随着法术范围升级而增大。
+spell.ancientspellcraft\:curse_of_ender=末影诅咒
+spell.ancientspellcraft\:curse_of_ender.name=末影诅咒
+spell.ancientspellcraft\:curse_of_ender.desc=有时，你会发觉自己已经不再属于这个世界。你将会对水感到恐惧，对阳光而感到烦恼。
 
-spell.ancientspellcraft\:conjure_water=Conjure Water
-spell.ancientspellcraft\:conjure_water.name=Conjure Water
+spell.ancientspellcraft\:conjure_water=水的戏法
+spell.ancientspellcraft\:conjure_water.name=水的戏法
 spell.ancientspellcraft\:conjure_water.desc=Conjures a water source block where the caster targets. Can also fill water bottles and buckets in the offhand.
 
 spell.ancientspellcraft\:conjure_shield=Conjure Shield
