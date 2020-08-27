@@ -1,6 +1,6 @@
 #PARSE_ESCAPES
 
-itemGroup.ancientspellcraft.tabAncientSpellcraft=Ancient Spellcraft
+itemGroup.ancientspellcraft.tabAncientSpellcraft=古代咒语
 
 #spells
 spell.ancientspellcraft\:hellgate=地狱之门
@@ -33,8 +33,8 @@ spell.ancientspellcraft\:drought.desc=Shrivel and shrink,\nwither and wilt,\nwas
 spell.ancientspellcraft\:will_o_wisp=Will o' Wisp
 spell.ancientspellcraft\:will_o_wisp.name=Will o' Wisp
 spell.ancientspellcraft\:will_o_wisp.desc=Ask of the spirits to seek and find,\nEnchant the tag to name and bind,\nWisp will show where thy desire be,\nFollow along and there it be!
-spell.ancientspellcraft\:will_o_wisp.invalid_biome_name_in_tag=Biome name in the Enchanted Name Tag is not a valid.
-spell.ancientspellcraft\:will_o_wisp.try_listbiomes=The /listbiomes command can be used to list all the valid biome names
+spell.ancientspellcraft\:will_o_wisp.invalid_biome_name_in_tag=附魔命名牌中的生物群系名称无效。
+spell.ancientspellcraft\:will_o_wisp.try_listbiomes=使用 /listbiomes 命令可用于列出所有有效的生物群系的名称
 spell.ancientspellcraft\:will_o_wisp.no_name_tag=The Wisp needs an Enchanted Name Tag in the offhand first, named after a biome.
 spell.ancientspellcraft\:will_o_wisp.tag_has_no_name=The Enchanted Name Tag first needs to be named after a biome with an anvil.
 spell.ancientspellcraft\:will_o_wisp.sent_to_biome=The Wisp is going towards biome %s
@@ -52,8 +52,8 @@ item.ancientspellcraft\:magic_shield.desc=This ancient crystal shield casts a pr
 
 #items
 item.ancientspellcraft\:spectral_shield.name=Spectral Shield
-item.ancientspellcraft\:ancient_spellcraft_spell_book.name=Spell Book
-item.ancientspellcraft\:enchanted_name_tag.name=Enchanted Name Tag
+item.ancientspellcraft\:ancient_spellcraft_spell_book.name=古代咒语法术书
+item.ancientspellcraft\:enchanted_name_tag.name=附魔命名牌
 item.ancientspellcraft\:enchanted_name_tag.desc_empty=Can be used to locate biomes with the Will o' Wisp Spell. Needs infusing with Magic Crystals at the Arcane Workbench
 item.ancientspellcraft\:enchanted_name_tag.desc_filled=Can be used to locate biomes with the Will o' Wisp Spell. Rename it with an Anvil after a biome name
 item.ancientspellcraft\:enchanted_name_tag.right_click=Needs to be used in the offhand together with the Will o' Wisp spell to locate a biome.
