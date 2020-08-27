@@ -20,14 +20,14 @@ spell.ancientspellcraft\:curse_of_ender.desc=有时，你会发觉自己已经�
 
 spell.ancientspellcraft\:conjure_water=水的戏法
 spell.ancientspellcraft\:conjure_water.name=水的戏法
-spell.ancientspellcraft\:conjure_water.desc=Conjures a water source block where the caster targets. Can also fill water bottles and buckets in the offhand.
+spell.ancientspellcraft\:conjure_water.desc=在魔杖瞄准的地方召唤出一个水源块，若副手拿有空水桶和空水瓶，则会将其填满水。
 
-spell.ancientspellcraft\:conjure_shield=Conjure Shield
-spell.ancientspellcraft\:conjure_shield.name=Conjure Shield
-spell.ancientspellcraft\:conjure_shield.desc=Creates spectral shield which can be used for blocking physical attacks. The shield lasts for 60 seconds.
+spell.ancientspellcraft\:conjure_shield=召唤护盾
+spell.ancientspellcraft\:conjure_shield.name=召唤护盾
+spell.ancientspellcraft\:conjure_shield.desc=召唤一道可以阻挡物理攻击的光盾，时间为60秒.
 
-spell.ancientspellcraft\:drought=Drought
-spell.ancientspellcraft\:drought.name=Drought
+spell.ancientspellcraft\:drought=旱灾
+spell.ancientspellcraft\:drought.name==旱灾
 spell.ancientspellcraft\:drought.desc=Shrivel and shrink,\nwither and wilt,\nwaste away\nand ebb of life,\ngreen be grey\nand dust become.
 
 spell.ancientspellcraft\:will_o_wisp=Will o' Wisp
@@ -39,11 +39,11 @@ spell.ancientspellcraft\:will_o_wisp.no_name_tag=The Wisp needs an Enchanted Nam
 spell.ancientspellcraft\:will_o_wisp.tag_has_no_name=The Enchanted Name Tag first needs to be named after a biome with an anvil.
 spell.ancientspellcraft\:will_o_wisp.sent_to_biome=The Wisp is going towards biome %s
 
-spell.ancientspellcraft\:natures_sprout=Nature's Sprout
-spell.ancientspellcraft\:natures_sprout.name=Nature's Sprout
-spell.ancientspellcraft\:natures_sprout.desc=Deserts, begone!
+spell.ancientspellcraft\:natures_sprout=大自然的萌芽
+spell.ancientspellcraft\:natures_sprout.name=大自然的萌芽
+spell.ancientspellcraft\:natures_sprout.desc=滚开吧，沙漠！
 #potions
-potion.ancientspellcraft\:curse_of_ender=Curse of Ender
+potion.ancientspellcraft\:curse_of_ender=末影诅咒
 
 
 #artefacts
